@@ -1,6 +1,6 @@
 import React from 'react'
 export default function App() {
   return (
-    <div className='aa'>App</div>
+    <div>App</div>
   )
 }
